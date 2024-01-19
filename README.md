@@ -1,7 +1,7 @@
 ![MasterHead](https://as1.ftcdn.net/v2/jpg/04/72/35/90/1000_F_472359089_rxPk4qQPYHwSPOpFWiiMunXHaZ00DtrK.jpg)
 <h1 align="center">Hi 👋, I'm Faria Siddiqi</h1>
 <h3 align="center">A passionate Frontend developer.</h3>
-<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"
+<img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/1439515/screenshots/4116964/media/c2e533cedaeec9c73b3d6ce3145a61a3.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faria-siddiqi&label=Profile%20views&color=0e75b6&style=flat" alt="faria-siddiqi" /> </p>
 
